@@ -1,4 +1,4 @@
-Vector
+Nginx
 =========
 
 This role can install Nginx on your server
